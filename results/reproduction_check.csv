@@ -1,0 +1,10 @@
+"dataset","model","LogLik_paper","LogLik_repro","match"
+"HALLUCA","dmw",-3916.92,-3916.92,TRUE
+"HALLUCA","dw",-3927.591,-3927.591,TRUE
+"HALLUCA","geom",-3934.634,-3934.634,TRUE
+"CLRC","dmw",-9089.943,-9089.476,FALSE
+"CLRC","dw",-9097.681,-9097.681,TRUE
+"CLRC","geom",-9125.316,-9125.315,TRUE
+"CML","dmw",-763.285,-763.285,TRUE
+"CML","dw",-764.343,-764.343,TRUE
+"CML","geom_k",-748.864,-748.864,TRUE
