@@ -52,3 +52,7 @@ Every table and figure in the thesis is reproduced. See [REPRODUCIBILITY.md](REP
 ## Citation
 
 Park, H. (2026). *A novel discrete parametric survival model based on the alternative discrete hazard rate*. M.S. thesis, Hankuk University of Foreign Studies.
+
+## License
+Code: All rights reserved. 열람만 허용하며, 허락 없이 복제·수정·배포·사용할 수 없습니다. 자세한 내용은 [LICENSE](LICENSE).
+Data: `data/halluca.csv` keeps its original license (CC BY 4.0, see [data/README.md](data/README.md)).
